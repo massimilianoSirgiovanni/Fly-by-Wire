@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1590761866 source:c:\users\massi\desktop\programming\progetti c\progetto so\proc1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<math.h>
+
+1590774809 source:c:\users\massi\desktop\programming\progetti c\prova coordinate\sd.c
+	<math.h>
+	<stdio.h>
+
+1590777578 source:c:\users\massi\desktop\programming\progetti c\progetto so\gestorefallimenti.c
+	<stdio.h>
+	<signal.h>
+	<stdlib.h>
+
+1590777412 source:c:\users\massi\desktop\programming\progetti c\progetto so\pfc1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<math.h>
+
